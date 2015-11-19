@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Eye20</string>
+    <string name="info_start">20min-20sec beep reminder is started now.\nStart to stare at a 20ft distant object when you hear a beep-beep sound.\nStop staring when you hear beep again.\nEvery 20min you must relax your eyes when you hear beep.\nPress Stop to end beep reminder.</string>
+    <string name="welcome_note">Press Start to Continue.</string>
+</resources>

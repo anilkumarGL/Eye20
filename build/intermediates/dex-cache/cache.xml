@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/temp/Eye20/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/temp/Eye20/app/build/intermediates/pre-dexed/release/classes-9d48f985bb1b24059a7616ca8c6a010784719e3b.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/GorillaLogic/Android/android_sdk_standalone/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/temp/Eye20/app/build/intermediates/pre-dexed/release/support-annotations-23.0.1-7c22bef1031f061959f3cef356fba72ceabc177a.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/temp/Eye20/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/temp/Eye20/app/build/intermediates/pre-dexed/release/classes-aba6391c6573fb56638e0517d910dcbd8d26f1a6.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/temp/Eye20/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/temp/Eye20/app/build/intermediates/pre-dexed/release/internal_impl-23.0.1-d932587338cdf00bb38ed3b6923047de1d020a86.jar" />
+    </item>
+    <item
+        jar="/Users/gorillalogic/Desktop/anil_p/temp/Eye20/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/gorillalogic/Desktop/anil_p/temp/Eye20/app/build/intermediates/pre-dexed/release/classes-dfc192616add3c94a618dfe6bb7296ae62b987d7.jar" />
+    </item>
+
+</items>
